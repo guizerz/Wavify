@@ -10,8 +10,7 @@ describe the app
 
 code snipet to highlight and describe @ high level
 
-```mermaid
-[Upflowchart LR
+flowchart LR
   User[User]
 
   subgraph Frontend[Frontend]
@@ -56,8 +55,6 @@ code snipet to highlight and describe @ high level
   Functions --> Stripe
   Stripe --> Functions
   Functions --> Database
-loading wavify-architecture-simple-2.mmd…]()
 
-```
 
 
