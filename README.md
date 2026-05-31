@@ -11,6 +11,7 @@ describe the app
 code snipet to highlight and describe @ high level
 
 ```mermaid
-/mnt/documents/wavify-architecture-simple.mmd
+[contents of wavify-architecture-simple.mmd]
 ```
+
 
